@@ -1,38 +1,23 @@
-<h1 align="center">👨‍💻 Juanky Hacker</h1>
-<p align="center">
-  <b>Bug Bounty Hunter | Web & API Security | Reconnaissance Expert</b><br>
-  <i>Persistence, precision, and ethical responsibility.</i>
-</p>
+# 👨‍💻 Juanky Hacker
+🔎 Bug Bounty Hunter | Web & API Security | Reconnaissance Expert
 
----
+## 🚀 About Me
+Security researcher focused on detecting vulnerabilities in web applications and APIs.  
+Passionate about bug bounty, offensive security, and continuously improving the security of critical environments.
 
-## 🚀 Sobre mí
-Apasionado por la ciberseguridad y la búsqueda de vulnerabilidades de alto impacto.  
-Experiencia en pruebas de penetración, análisis de seguridad y reporte de fallos críticos en aplicaciones web y APIs.
+## 🛠️ Skills
+- Web Vulnerabilities: **XSS, IDOR, CSRF, SQL Injection, Privilege Escalation**
+- Advanced Reconnaissance: **Subdomain Enumeration, Google Dorking, OSINT**
+- API analysis and exploitation
+- Cloud security and asset protection
 
----
+## ⚡ Favorite Tools
+Burp Suite · Nmap · Subfinder · Amass · ffuf · httpx · OWASP ZAP · Metasploit · Nuclei
 
-## 🛠 Habilidades
-- **Vulnerabilidades Web**: IDOR, XSS, CSRF, SQL Injection, Privilege Escalation
-- **Reconocimiento avanzado**: Subdomain Enumeration, Google Dorking, OSINT
-- **Análisis y explotación de APIs**
-- **Protección de activos en la nube**
+## 📚 Portfolio
+- Notes and practice: [bugbounty-portfolio](https://github.com/juankyhacker/bugbounty-portfolio)
 
----
-
-## 🧰 Herramientas favoritas
-- **Burp Suite**, **Nmap**, **Subfinder**, **Amass**, **ffuf**, **httpx**
-- **OWASP ZAP**, **Metasploit**, **Nuclei**
-
----
-
-## 📫 Contacto
-- 📧 **juankyhacker@proton.me**
-- 🌐 [Perfil en HackerOne](https://hackerone.com/juankyhacker)
-- 💻 [GitHub](https://github.com/juankyhacker)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juankyhacker&label=Visitas&color=blue&style=flat" alt="contador de visitas"/>
-</p>
+## 📬 Contact
+- ✉️ Email: juankyhacker@proton.me  
+- 🔗 HackerOne: https://hackerone.com/<your_handle_here>  
+- 💻 GitHub: https://github.com/juankyhacker
