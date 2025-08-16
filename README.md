@@ -19,5 +19,5 @@ Burp Suite · Nmap · Subfinder · Amass · ffuf · httpx · OWASP ZAP · Metasp
 
 ## 📬 Contact
 - ✉️ Email: juankyhacker@proton.me  
-- 🔗 HackerOne: https://hackerone.com/<your_handle_here>  
+- 🔗 HackerOne: https://hackerone.com/juankyhacker
 - 💻 GitHub: https://github.com/juankyhacker
